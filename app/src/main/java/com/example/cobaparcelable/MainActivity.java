@@ -41,7 +41,7 @@ Button proses, backmain;
                 pindah.putExtra("kelas", kelas.getText().toString());
                 startActivity(pindah);
                 MainActivity.this.finish();
-                //alert
+                //alert contoh
 
                 //alert2
 
